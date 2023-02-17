@@ -1,3 +1,3 @@
 # GitHub defaults
 
-Organization-wide dotfiles and more for the @twbs account.
+Organization-wide dotfiles and more for the @fiware account.
