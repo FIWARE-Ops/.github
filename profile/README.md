@@ -1,6 +1,6 @@
 
 <h1>
-<img align="right" width="200" height="120" src="https://www.fiware.org/wp-content/uploads/Thumb_FIWARE.png"/>
+<img align="right" width="200" height="200" src="https://www.fiware.org/style/imgs/FIWARE_WrongSearch.png"/>
 Welcome to FIWARE Operations</h1>
 <h3>These are Operations repos, and  may not be the FIWARE repos you are looking for</h2><br>
   <p>
