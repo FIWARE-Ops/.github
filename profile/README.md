@@ -4,7 +4,7 @@
 Welcome to FIWARE Operations</h1>
 <h3>These are Operations repos, and  may not be the FIWARE repos you are looking for</h2><br>
   <p>
-   <b>FIWARE</b> is an open standards for context data management. This is the <b>FIWARE Operations</b> account which hosts a variety of back-end services and tools:
+   <b>FIWARE</b> is an open standard for context data management. This is the <b>FIWARE Operations</b> account which hosts a variety of back-end services and tools:
     <ul>
       <li>Repositories related directly to Operations tasks and scalable FIWARE deployments</li>
       <li>Repositories and documentation related to the infrastructure used on the <a href="https://fiware.org/">fiware.org</a> website</li>
